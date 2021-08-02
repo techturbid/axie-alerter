@@ -1,0 +1,17 @@
+{
+  "name": "axie-alerter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:techturbid/axie-alerter.git",
+  "author": "Giovanni Coutinho <giovannirco@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
